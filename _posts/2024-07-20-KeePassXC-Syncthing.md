@@ -1,8 +1,4 @@
----
-layout: post
-title: "KeePassXC + Syncthing"
-date: 2024:07:20 -0000
-categories: tools
+## KeePassXC + Syncthing"
 ---
 
 * install KeePassXC on all Linux/Windows/IOS computers 
