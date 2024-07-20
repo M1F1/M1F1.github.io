@@ -14,4 +14,4 @@
 
 * install KeePassium on all IOS mobile devices
   
-* share kdbc file and check it's secrets using installed apps
+* share kdbx file and check it's secrets using installed apps
