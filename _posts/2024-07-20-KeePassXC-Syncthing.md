@@ -1,6 +1,6 @@
-## KeePassXC + Syncthing"
+## KeePassXC + Syncthing
 ---
-Install Syncthing and it's ports:
+#### Install Syncthing and it's counterparts:
 
 * install Syncthig on all Linux/Windows devices
 
@@ -8,7 +8,7 @@ Install Syncthing and it's ports:
 
 * sync all devices and share common folder
 
-Install KeePassXC and it counterparts:
+#### Install KeePassXC and it's counterparts:
 
 * install KeePassXC on all Linux/Windows/IOS computers 
 
