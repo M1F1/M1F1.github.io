@@ -3,10 +3,18 @@
 #### Install Syncthing and it's counterparts:
 
 * install Syncthig on all Linux/Windows devices
+  
+  * run within terminal
+    ```console
+    syncthing
+    ```
+  * http://127.0.0.1:8384/
 
 * install Mobius Sync on all IOS devices
 
-* sync all devices and share common folder
+* sync all devices and share common folder via
+  * click 'Add Remote Device' button with 'Default Folder' option box ticked (within 'Sharing')
+  on each
 
 #### Install KeePassXC and it's counterparts:
 
