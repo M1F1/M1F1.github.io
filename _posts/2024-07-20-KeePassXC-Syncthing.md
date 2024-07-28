@@ -9,6 +9,7 @@
     syncthing
     ```
   * http://127.0.0.1:8384/
+  * put files into ~/Sync 
 
 * install Mobius Sync on all IOS devices
 
